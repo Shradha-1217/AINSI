@@ -158,7 +158,7 @@ def setup_model(api_key):
         st.stop()
     
     genai.configure(api_key=api_key)
-    return genai.GenerativeModel('gemini-1.5-pro')
+    return genai.GenerativeModel('gemini-2.0-flash')
 
 # Function to generate interview
 def generate_interview(character1, character2, topic, tone, api_key):
