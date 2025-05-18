@@ -1,4 +1,5 @@
 AI Fictional Interview Generator 🎭
+
 Overview
 The AI Fictional Interview Generator is a web-based application that allows users to create imaginative and entertaining dialogues between two characters of their choice, powered by Google's Gemini 1.5 Pro AI model. Whether you want to see Socrates debating Steve Jobs on innovation or Krishna discussing duty with Arjuna, this app brings fictional interviews to life with customizable topics and tones.
 Built with Streamlit, the app offers a sleek and user-friendly interface with custom styling, interactive features, and the ability to download generated scripts. It’s perfect for writers, educators, or anyone looking to explore creative conversations between historical, mythical, or pop culture figures.
